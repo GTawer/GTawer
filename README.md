@@ -23,7 +23,7 @@ Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas
 
 ---
 
-## 🏗️ Construindo o Futuro
+## Boa jornada
 ![GIF: Homem-Aranha Trabalhando](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRyNzBvYWI2eDlodTc1ampud2ZtNm4yemQ4amI1dXRzaHFpcWN6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jXOxSiAx5UVnq/giphy.gif)
 
 > *":)"*
