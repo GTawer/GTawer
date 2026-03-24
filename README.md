@@ -5,7 +5,7 @@
 ### "With Great powers, come great responsabillities" 🕷️
 
 Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas - SENAI**. Buscando me tornar cada vez melhor.
-[![Spotify](https://github-readme-spotify-status.vercel.app/api/runSpotifyWidget.py?user=SEUUSUARIO)](https://open.spotify.com/intl-pt/album/6japNUfJirdFanWTMpltCv)
+
 
 ---
 
