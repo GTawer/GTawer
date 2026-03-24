@@ -1,14 +1,15 @@
-# Your friendly neighborhood Spider Man
-
 # 🕸️ Gabriel Torres | GTower
 
-### "Com grandes códigos, vêm grandes responsabilidades." 🕷️
+# Your friendly neighborhood Spider Man
 
-Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas - SENAI**. Focado em construir soluções sólidas e escalar o aprendizado, um commit de cada vez.
+### "With Great powers, come great responsabillities" 🕷️
+
+Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas - SENAI**. Buscando me tornar cada vez melhor.
+[![Spotify](https://github-readme-spotify-status.vercel.app/api/runSpotifyWidget.py?user=SEUUSUARIO)](LINK_DO_SEU_SPOTIFY)
 
 ---
 
-## 🛠️ No Laboratório (Status Atual)
+## 🛠️ On the Class (Status Atual)
 ![GIF: Homem-Aranha Analisando Dados](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt2eWhnaW1zeHlhNmR2b2lvbzAwNmU5MHRhYjFtdzlkd2trMHcxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif)
 
 *   🎓 **Curso:** Técnico em Desenvolvimento de Sistemas (SENAI).
