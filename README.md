@@ -18,12 +18,11 @@ Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas
 
 ---
 
-## 🎒 Cinto de Utilidades (Tech Stack)
-![Minhas Skills](https://skillicons.dev)
+## 🎒 Cinto de Utilidades (Minhas skills)
 
 ---
 
-## Boa jornada
+## Nos veremos novamente
 ![GIF: Homem-Aranha Trabalhando](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRyNzBvYWI2eDlodTc1ampud2ZtNm4yemQ4amI1dXRzaHFpcWN6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jXOxSiAx5UVnq/giphy.gif)
 
 > *":)"*
@@ -31,8 +30,6 @@ Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas
 ---
 
 ## 📡 Frequência de Contato
-*   💼 [LinkedIn](SEU_LINK_AQUI)
-*   📧 [Seu E-mail]
 
 ---
 
