@@ -19,6 +19,7 @@ Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas
 ---
 
 ## 🎒 Cinto de Utilidades (Minhas skills)
+(não tem)
 
 ---
 
