@@ -10,7 +10,7 @@ Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas
 ---
 
 ## 🛠️ On the Class (Status Atual)
-![GIF: Homem-Aranha Analisando Dados](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt2eWhnaW1zeHlhNmR2b2lvbzAwNmU5MHRhYjFtdzlkd2trMHcxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif)
+![GIF:](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt2eWhnaW1zeHlhNmR2b2lvbzAwNmU5MHRhYjFtdzlkd2trMHcxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif)
 
 *   🎓 **Curso:** Técnico em Desenvolvimento de Sistemas (SENAI).
 *   🏗️ **Codinome:** **GTower**.
