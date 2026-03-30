@@ -30,6 +30,6 @@ Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas
 ---
 
 ## 📡 Frequência de Contato
-
+✉️ Email [Gabriel.torresplay2@gmail.com]
 ---
 
