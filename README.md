@@ -6,7 +6,7 @@
 
 Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas - SENAI**. Buscando me tornar cada vez melhor.
 
-
+(perfil ainda incompleto)
 ---
 
 ## 🛠️ On the Class (Status Atual)
