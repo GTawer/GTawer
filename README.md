@@ -21,6 +21,7 @@ Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas
 ## 🎒 Cinto de Utilidades (Minhas skills)
 (não tem)
 
+![snake gif](https://github.com/GTawer/GTawer/blob/output/github-contribution-grid-snake.svg)
 ---
 
 ## Nos veremos novamente
