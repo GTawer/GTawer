@@ -21,7 +21,12 @@ Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas
 ## 🎒 Cinto de Utilidades (Minhas skills)
 (não tem)
 
-![snake gif](https://github.com/GTawer/GTawer/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GTawer/GTawer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GTawer/GTawer/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GTawer/GTawer/output/github-contribution-grid-snake.svg">
+</picture>
+
 ---
 
 ## Nos veremos novamente
