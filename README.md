@@ -1,11 +1,19 @@
+## 👊 Prazer, Gabriel Torres!🐙
 ### With Great powers, come great responsabillities" 🕷️
+##
+<p align="center">
+  <em>Student • System development • Design</em>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=GabrielPereiraDias&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=DC2788&background=FFFFFF00&width=435&lines=Welcome+to+my+page!;Exploring+new+seas;System+Development+)](https://git.io/typing-svg)
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
 
-![GIF:](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt2eWhnaW1zeHlhNmR2b2lvbzAwNmU5MHRhYjFtdzlkd2trMHcxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ssts7rvD7E01O/giphy.gif)
+
+
+
 
 *   🎓 **Curso:** Técnico em Desenvolvimento de Sistemas (SENAI).
 *   🏗️ **Codinome:** **GTower**.
