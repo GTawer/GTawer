@@ -2,12 +2,17 @@
 
 ###
 
-<p align="left">"With Great powers, come great responsabillities" 🕷️</p>
+<div align="center">
+  
+### With Great powers, come great responsabillities" 🕷️
 
 ##
 
 <h6 align="center">Student • System development • Design</h6>
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=DC2788&background=FFFFFF00&width=435&lines=Welcome+to+my+page!;Exploring+new+seas;System+Development+)](https://git.io/typing-svg)
 ###
 
 <div align="center">
@@ -24,8 +29,6 @@
 </div>
 
 ###
-
-<p align="left">---</p>
 
 ###
 
@@ -63,6 +66,12 @@
 *   🎓 **Curso:** Técnico em Desenvolvimento de Sistemas (SENAI).
 *   🏗️ **Codinome:** **GTower**.
 *   🚀 **Foco:** Dominando as bases da programação e arquitetura de sistemas.
+
+  <picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GTawer/GTawer/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GTawer/GTawer/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GTawer/GTawer/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
