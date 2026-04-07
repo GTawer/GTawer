@@ -1,5 +1,3 @@
-# 🕸️ Gabriel Torres | GTower
-
 # Your friendly neighborhood Spider Man
 
 ### "With Great powers, come great responsabillities" 🕷️
