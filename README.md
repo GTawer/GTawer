@@ -1,14 +1,12 @@
 ### With Great powers, come great responsabillities" 🕷️
 
-
+---
 
 <p align="center">
   <em>Estudante • Desenvolvimento de Sistemas • Design</em>
 </p>
-<div align="center"
-Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas - SENAI**.
 
-(perfil ainda incompleto)
+
 
 ---
 
@@ -20,26 +18,6 @@ Atualmente em treinamento intensivo no **Técnico em Desenvolvimento de Sistemas
 
 ---
 
-## 🎒 Cinto de Utilidades (Minhas skills)
-(não tem)
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GTawer/GTawer/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GTawer/GTawer/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/GTawer/GTawer/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
-## Nos veremos novamente
-![GIF: Homem-Aranha Trabalhando](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRyNzBvYWI2eDlodTc1ampud2ZtNm4yemQ4amI1dXRzaHFpcWN6dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jXOxSiAx5UVnq/giphy.gif)
-
-> *":)"*
-
----
-
-## 📡 Frequência de Contato
-✉️ Email [Gabriel.torresplay2@gmail.com]
 
 
 
