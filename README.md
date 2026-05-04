@@ -4,7 +4,7 @@
 
 <div align="center">
   
-### With Great powers, come great responsabillities" 🕷️
+### "With Great powers, come great responsabillities" 🕷️
 
 ##
 
