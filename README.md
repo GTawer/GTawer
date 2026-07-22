@@ -142,7 +142,6 @@ O projeto utiliza identificação de perfis através de sensores e botões, perm
 
 - Arduino
 - C/C++
-- Sensor ultrassônico HC-SR04
 - Tinkercad
 - Eletrônica básica
 - Lógica de programação
@@ -188,10 +187,13 @@ Música, jogos, design e criatividade fazem parte das coisas que influenciam meu
 Sempre buscando aprender algo novo e transformar ideias em experiências.
 
 ---
-
 <div align="center">
+    
+### "See you later XD"
+<div align="center">
+  <img height="182" src="https://media1.tenor.com/m/mhlNf1SX988AAAAC/scott-pilgrim-vs-the-world-the-game-negascott.gif"  />
+</div>
 
-### "Stay curious. Keep building."
 
 <br>
 
