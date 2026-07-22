@@ -38,7 +38,7 @@ Gosto de aprender criando projetos, testando novas ideias e transformando concei
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45"/>
 </a>
 
-<a href="SEU_INSTAGRAM">
+<a href="https://www.instagram.com/hjt_foxy_/">
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45"/>
 </a>
 
